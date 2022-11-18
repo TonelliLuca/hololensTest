@@ -136,8 +136,10 @@ PlayerSettings:
     Others: 1
   bundleVersion: 0.1
   preloadedAssets:
-  - {fileID: 5977155421020945019, guid: 38063f39c8f043244806698d6151188e, type: 2}
-  - {fileID: -1239723518760419386, guid: 66df06a9eb663584cad18e9439af6fce, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
@@ -615,16 +617,16 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Template_3D
-  metroPackageVersion: 
-  metroCertificatePath: 
+  metroPackageName: Template3D
+  metroPackageVersion: 1.0.0.0
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00eaaad4c314da01
   metroApplicationDescription: Template_3D
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: mrtk_test
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
